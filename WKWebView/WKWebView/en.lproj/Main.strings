@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "Enter url"; ObjectID = "bA7-w1-TCa"; */
+"bA7-w1-TCa.placeholder" = "Enter url";
+
+/* Class = "UIButton"; normalTitle = "WebView"; ObjectID = "jXT-nX-9PF"; */
+"jXT-nX-9PF.normalTitle" = "WebView";
+
+/* Class = "UIButton"; normalTitle = "Backward"; ObjectID = "xdV-z2-aWX"; */
+"xdV-z2-aWX.normalTitle" = "Backward";
+
+/* Class = "UIButton"; normalTitle = "Forward"; ObjectID = "zUk-zB-0xj"; */
+"zUk-zB-0xj.normalTitle" = "Forward";
